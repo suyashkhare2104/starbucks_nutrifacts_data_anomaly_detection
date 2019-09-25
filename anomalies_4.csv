@@ -1,0 +1,16 @@
+﻿Beverage_category,Beverage,Beverage_prep,Calories, Total Fat (g),Trans Fat (g) ,Saturated Fat (g), Sodium (mg), Total Carbohydrates (g) ,Cholesterol (mg), Dietary Fibre (g), Sugars (g), Protein (g) ,Vitamin A (% DV) ,Vitamin C (% DV), Calcium (% DV) ,Iron (% DV) ,Caffeine (mg)
+Classic Espresso Drinks,CaffÃ¨ Latte,2% Milk,300,9,0,0.9,80,0,6,0,40,10,25%,9%,1%,5%,200
+Classic Espresso Drinks,CaffÃ¨ Mocha (Without Whipped Cream),Tall Nonfat Milk,0,2,1,0,5,100,32,1,27,10,1%,1%,1%,1%,5
+Classic Espresso Drinks,Cappuccino,Short Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+Signature Espresso Drinks,Caramel Macchiato,Short Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+FrappuccinoÂ® Blended Coffee,White Chocolate Mocha (Without Whipped Cream),Short Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Tall Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+TazoÂ® Tea Drinks,TazoÂ® Chai Tea Latte,Soymilk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+TazoÂ® Tea Drinks,TazoÂ® Green Tea Latte,2% Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+TazoÂ® Tea Drinks,TazoÂ® Full-Leaf Tea Latte,Soymilk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+TazoÂ® Tea Drinks,TazoÂ® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Venti Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+FrappuccinoÂ® Blended Coffee,Coffee,Grande Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+FrappuccinoÂ® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+FrappuccinoÂ® Light Blended Coffee,Caramel,Venti Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
+FrappuccinoÂ® Blended CrÃ¨me,Strawberries & CrÃ¨me (Without Whipped Cream),Grande Nonfat Milk,0,0,0,0,0,0,0,0,0,0,1%,1%,1%,1%,5
